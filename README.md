@@ -1,3 +1,3 @@
 # PersonalBlogReactGen
 
-## Projeto Guia Generation - Blog pessoal feito com React js, Typescript e Js :)
+#### Projeto Guia Generation - Blog pessoal feito com React js, Typescript, Js e Tailwind CSS :)
